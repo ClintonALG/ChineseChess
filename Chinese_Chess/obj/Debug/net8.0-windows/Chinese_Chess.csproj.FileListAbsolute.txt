@@ -1,0 +1,248 @@
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.exe
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.deps.json
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.runtimeconfig.json
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.FormMain.resources
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.GenerateResource.cache
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfoInputs.cache
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfo.cs
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.CoreCompileInputs.cache
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\refint\Chinese_Chess.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.genruntimeconfig.cache
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\ref\Chinese_Chess.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.COMPUTER.resources
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.PLAYER.resources
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.Properties.Resources.resources
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.LOGIN.resources
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.AssemblyReference.cache
+C:\Users\clint\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_.9C9B80C6.Up2Date
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.exe
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.deps.json
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.runtimeconfig.json
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.AssemblyReference.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.FormMain.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.COMPUTER.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.LOGIN.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.PLAYER.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.Properties.Resources.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.GenerateResource.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfoInputs.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfo.cs
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.CoreCompileInputs.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_.9C9B80C6.Up2Date
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\refint\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.genruntimeconfig.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\ref\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.exe
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.deps.json
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.runtimeconfig.json
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.AssemblyReference.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.FormMain.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.COMPUTER.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.LOGIN.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.PLAYER.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.Properties.Resources.resources
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.GenerateResource.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfoInputs.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfo.cs
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.CoreCompileInputs.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_.9C9B80C6.Up2Date
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\refint\Chinese_Chess.dll
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.genruntimeconfig.cache
+C:\Users\DUC anh\source\repos\Chinese_Chess_MoveHistoryView\Chinese_Chess\obj\Debug\net8.0-windows\ref\Chinese_Chess.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.exe
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.deps.json
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.runtimeconfig.json
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.AssemblyReference.cache
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.FormMain.resources
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.COMPUTER.resources
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.LOGIN.resources
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.PLAYER.resources
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.Properties.Resources.resources
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.GenerateResource.cache
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfoInputs.cache
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.AssemblyInfo.cs
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.csproj.CoreCompileInputs.cache
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_.9C9B80C6.Up2Date
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\refint\Chinese_Chess.dll
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.pdb
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\Chinese_Chess.genruntimeconfig.cache
+C:\Users\clint\source\repos\zz.xong deadline\Chinese_Chess\Chinese_Chess\obj\Debug\net8.0-windows\ref\Chinese_Chess.dll

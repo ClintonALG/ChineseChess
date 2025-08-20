@@ -1,0 +1,3 @@
+- thuật toán chưa tốt
+- thêm tài khoản + thống kê kết quả mỗi lần đấu
+- chế độ level (depth)
